@@ -11,4 +11,3 @@ Está compuesto por dos partes principales:
 
 1. El backend se ejecuta en Java y responde peticiones HTTP con información de mascotas.
 2. El frontend, hecho en PHP, solicita los datos al backend y los muestra en una tabla en una página web.
-
